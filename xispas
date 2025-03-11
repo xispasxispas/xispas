@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg" group-title="UCL BARÇA VS BENFICA", M. L. Campeones N
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="UCL BARÇA VS BENFICA", M. L. Campeones N
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg" group-title="UCL BARÇA VS BENFICA", M. L. Campeones N
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="UCL BARÇA VS BENFICA", M. L. Campeones N
 acestream://d15a0eaf825b5f8f94259d5209688a7e97e6acde
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg" group-title="UCL BARÇA VS BENFICA", M. L. Campeones
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="UCL BARÇA VS BENFICA", M. L. Campeones
 acestream://ac73acd09d79c46cb818bfd945f20198d1718a85
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg" group-title="UCL BARÇA VS BENFICA", M. L. Campeones
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="UCL BARÇA VS BENFICA", M. L. Campeones
 acestream://f43a021e8fd63334a4bf3fb11ffe58f89039a1d0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg" group-title="UCL BARÇA VS BENFICA", M. L. Campeones
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="UCL BARÇA VS BENFICA", M. L. Campeones
 acestream://840f68a0dc6e27c2927a16b4d42b9401ac50270b
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" group-title="UCL BARÇA VS BENFICA", LALIGA TV BAR 1080
 acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
@@ -25,11 +25,11 @@ acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 acestream://19c5c13a8e7273d78d53fdaea3deaf1b80e938fa
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/640px-TNT_Sports_Logo.svg.png" group-title="UCL BARÇA VS BENFICA", TNT SPORT 1 FHD
 acestream://6540972855d1728baba4b1bc8e13ba6866152e29
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg" group-title="UCL BARÇA VS BENFICA", M+ LIGA DE CAMPEONES FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="UCL BARÇA VS BENFICA", M+ LIGA DE CAMPEONES FHD
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg" group-title="UCL BARÇA VS BENFICA", M+ LIGA DE CAMPEONES FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="UCL BARÇA VS BENFICA", M+ LIGA DE CAMPEONES FHD
 acestream://775abd8697715c48a357906d40734ccd2a10513c
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg" group-title="UCL BARÇA VS BENFICA", M+ LIGA DE CAMPEONES FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg" group-title="UCL BARÇA VS BENFICA", M+ LIGA DE CAMPEONES FHD
 acestream://016b60eb1500479607d9920e10ecbd757043298b
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar01.png" group-title="UCL BARÇA VS BENFICA", DAZN 1 BAR FHD
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
@@ -2347,5 +2347,4 @@ acestream://9c990f070e8f6ef6a5f92719c2468f78e240d102
 acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
 #EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd-753x406.jpg" group-title="RUS", RUS HD9
 acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-
 
