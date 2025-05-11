@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" group-title="Barça vs R.Madrid", Liga Bar Multi
+acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="Barça vs R.Madrid", Liga 1080
 acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="Barça vs R.Madrid", Liga 1080 Multi
@@ -31,12 +33,6 @@ acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
 acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="Barça vs R.Madrid", M+ LALIGA 2 SD --> EC
 acestream://f31a586422c9244196c810c84b6c85da350318a5
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="Barça vs R.Madrid", M+ LALIGA 3 FHD --> EC
-acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="Barça vs R.Madrid", M+ LALIGA 3 SD --> EC
-acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="Barça vs R.Madrid", M+ LALIGA 4 FHD --> EC
-acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="Barça vs R.Madrid", ELEVEN DAZN 1 HD
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="Barça vs R.Madrid", ELEVEN DAZN 1 HD
@@ -51,8 +47,6 @@ acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-logo="https://img.rasset.ie/00025bb4-500.jpg" group-title="Barça vs R.Madrid", ZIGGO SPORT FHD
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-logo="https://img.rasset.ie/00025bb4-500.jpg" group-title="Barça vs R.Madrid", ZIGGO SPORT FHD
-acestream://8e475c8b9f12270c524f88f5659cc6811fc1399c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="Barça vs R.Madrid", ELEVEN SPORTS 1 4K
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="Barça vs R.Madrid", ELEVEN SPORTS 1 HD
