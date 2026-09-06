@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.pimpletv.ru/wp-content/uploads/logo/football/spain/barcelona.png" group-title="València-Barça", M+ LALIGA New Loop
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 tvg-logo="https://www.pimpletv.ru/wp-content/uploads/logo/football/spain/barcelona.png" group-title="València-Barça", M+ LALIGA New Loop
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-logo="https://www.pimpletv.ru/wp-content/uploads/logo/football/spain/barcelona.png" group-title="València-Barça", M+ LALIGA Elcano
+acestream://d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
+#EXTINF:-1 tvg-logo="https://www.pimpletv.ru/wp-content/uploads/logo/football/spain/barcelona.png" group-title="València-Barça", M+ LALIGA Elcano
+acestream://a64e02a6d914f098cbe1b724ff4f7aef83419a4a
+#EXTINF:-1 tvg-logo="https://www.pimpletv.ru/wp-content/uploads/logo/football/spain/barcelona.png" group-title="València-Barça", M+ LALIGA Elcano
+acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
+#EXTINF:-1 tvg-logo="https://www.pimpletv.ru/wp-content/uploads/logo/football/spain/barcelona.png" group-title="València-Barça", M+ LALIGA Elcano
+acestream://5ad75216a63a31fef23ddc3532edc66c2fc0936c
+#EXTINF:-1 tvg-logo="https://www.pimpletv.ru/wp-content/uploads/logo/football/spain/barcelona.png" group-title="València-Barça", M+ LALIGA Elcano
+acestream://f863873de9f7b2996dde19a0657dd89835af3007
+#EXTINF:-1 tvg-logo="https://www.pimpletv.ru/wp-content/uploads/logo/football/spain/barcelona.png" group-title="València-Barça", M+ LALIGA Elcano
+acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
+#EXTINF:-1 tvg-logo="https://www.pimpletv.ru/wp-content/uploads/logo/football/spain/barcelona.png" group-title="València-Barça", PIMPLETV
+acestream://350b2044f1c9e87e18d8fbda1bcc456c22cf9296
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="LaLigaTV", M. Liga N
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/leagues/140.png" group-title="LaLigaTV", M+ LaLiga 1080p *
